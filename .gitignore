@@ -5,6 +5,8 @@
 # npm
 node_modules
 package-lock.json
+yarn.lock
+
 
 # build
 main.js
@@ -12,3 +14,9 @@ main.js
 
 # obsidian
 data.json
+
+# Mac
+.DS_Store
+
+vscode
+.vscode
