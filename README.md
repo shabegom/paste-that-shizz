@@ -12,7 +12,7 @@ Circle, send message.
 4. inside `.obsidian` go to the `plugins` folder.
 5. create a new folder in there and call it `pasta-yum-yum-yum` or y'know, whatever you want...
 6. move the downloaded `main.js` and `manifest.json` into the folder you created.
-7. Restart Obsidian, Paste That Shizz should show up in your list of plugins. Toggle that shizz!
+7. Restart Obsidian, Paste That Shizz should show up in your list of plugins. Toggle that shizz!  
 **B-b-b-b-bonus**
 8. Go into the Mobile part of Settings and add Paste That Shizz to your mobile toolbar
 
